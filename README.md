@@ -1,5 +1,5 @@
-simpfoval
-=========
+php_form_validator
+==================
 
 Simple PHP Form Validator
 
