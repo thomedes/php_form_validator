@@ -1,7 +1,5 @@
-php_form_validator
-==================
-
 Simple PHP Form Validator
+=========================
 
 Just an experiment, NOT READY FOR PRODUCTION, don't use it.
 
